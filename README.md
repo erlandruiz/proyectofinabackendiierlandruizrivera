@@ -45,6 +45,7 @@ http://localhost:8080/api/sessions/register
 }
 ~~~
 
+
 ## Login  de usuarios
 >"Para hacer lo login de los  usuarios 🔥"
 [En Postman colocar POST y digitar ](http://localhost:8080/api/sessions/login)
@@ -216,7 +217,7 @@ http://localhost:8080/api/email
 }
 ~~~
 
-# EMAIL 
+# SMS
 >"Para hacer envio de un SMS  escribir el body similar al ejemplo" (Ojo solo lo probe una vez por que cobran) 🔥"
 [En Postman colocar get  y digitar  ](http://localhost:8080/api/email)
 http://localhost:8080/api/email
